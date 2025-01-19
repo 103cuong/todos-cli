@@ -1,8 +1,8 @@
 # todos-cli
 
-[![Build Status](https://travis-ci.com/cuongw/todos-cli.svg?token=BrDbfYWUGDSpbNJ4h6P1&branch=master)](https://travis-ci.com/cuongw/todos-cli)
-![](https://img.shields.io/david/cuongw/todos-cli.svg?style=flat-square)
-![](https://img.shields.io/github/license/cuongw/todos-cli.svg?style=flat-square)
+[![Build Status](https://travis-ci.com/cuongndc9/todos-cli.svg?token=BrDbfYWUGDSpbNJ4h6P1&branch=master)](https://travis-ci.com/cuongw/todos-cli)
+![](https://img.shields.io/david/cuongndc9/todos-cli.svg?style=flat-square)
+![](https://img.shields.io/github/license/cuongndc9/todos-cli.svg?style=flat-square)
 
 > 🦉 Todos CLI with NodeJS.
 
@@ -12,19 +12,19 @@
 
 Clone this project:
 ```
-$ git clone https://github.com/cuongw/todos-cli.git
+git clone https://github.com/cuongw/todos-cli.git
 ```
 Change directory `todos-cli` & allow execute script:
 ```
-$ cd todos-cli && chmod +x index.js
+cd todos-cli && chmod +x index.js
 ```
 Run script anywhere
 ```
-$ npm link
+npm link
 ```
 Install packages
 ```
-$ npm install
+npm install
 ```
 
 ## Usage
