@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-const axios = require('axios')
 const chalk = require('chalk')
 
 const { newTodo, getTodos, completeTodo }= require('./db')
